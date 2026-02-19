@@ -1,0 +1,15 @@
+grpcio 
+grpcio-tools
+openvino 
+openvino-dev
+transformers 
+torch 
+torchvision
+opencv-python 
+pillow
+python-docx 
+python-pptx 
+reportlab
+mcp
+openai-whisper
+accelerate
