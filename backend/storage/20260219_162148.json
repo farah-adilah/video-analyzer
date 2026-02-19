@@ -1,0 +1,39 @@
+{
+  "video_name": "sample-5s.mp4",
+  "video_path": "C:\\Users\\User\\AppData\\Local\\Temp\\tmpj0kgnyfp.mp4",
+  "timestamp": "2026-02-19T16:21:29.959986",
+  "status": "complete",
+  "video_info": {
+    "fps": 30.0,
+    "frame_count": 171,
+    "width": 1920,
+    "height": 1080,
+    "duration": 5.7
+  },
+  "transcription": {
+    "agent": "TranscriptionAgent",
+    "transcription": "",
+    "language": "en",
+    "error": null
+  },
+  "vision": {
+    "agent": "VisionAgent",
+    "total_frames": 2,
+    "analyzed_frames": 2,
+    "captions": [
+      {
+        "frame": 1,
+        "caption": "a park with a lot of trees and a few cars",
+        "timestamp": 0
+      },
+      {
+        "frame": 2,
+        "caption": "",
+        "timestamp": 5
+      }
+    ],
+    "summary": "The video contains 2 key scenes. a park with a lot of trees and a few cars "
+  },
+  "ai_summary": "AI model not available. Using basic summary.",
+  "analysis_id": "20260219_162148"
+}
