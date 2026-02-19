@@ -1,6 +1,6 @@
 # 🎥 Video AI Analyzer
 
-A local desktop application for analyzing short video files using AI. Extract transcriptions, generate visual descriptions, and create professional reports - all without sending data to the cloud.
+A local desktop application for analyzing short video files using AI. Extract transcriptions, generate visual descriptions, and create professional reports.
 
 ![Video AI Analyzer](https://img.shields.io/badge/AI-Local-green) ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Tauri](https://img.shields.io/badge/Tauri-Desktop-orange)
 
@@ -208,4 +208,5 @@ ffmpeg -version
 - [TinyLlama](https://github.com/jzhang38/TinyLlama) - Text generation
 - [Tauri](https://tauri.app/) - Desktop framework
 - [gRPC](https://grpc.io/) - RPC framework
+
 
