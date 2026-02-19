@@ -1,0 +1,54 @@
+syntax = "proto3";
+
+package video_analyzer;
+
+service VideoAnalyzer {
+  rpc AnalyzeVideo(VideoRequest) returns (stream AnalysisUpdate);
+  rpc GenerateReport(ReportRequest) returns (ReportResponse);
+  rpc SendChatMessage(ChatMessage) returns (ChatResponse);
+  rpc GetConversationHistory(ConversationHistoryRequest) returns (ConversationHistoryResponse);
+}
+
+message VideoRequest {
+  bytes video_data = 1;
+  string video_name = 2;
+  repeated string analysis_types = 3;  // ["transcription", "vision", "objects"]
+}
+
+message AnalysisUpdate {
+  string stage = 1;  // "transcription", "vision", "generation"
+  int32 progress = 2;
+  string message = 3;
+  string result_json = 4;
+}
+
+message ReportRequest {
+  string analysis_id = 1;
+  string format = 2;  // "pdf" or "pptx"
+}
+
+message ReportResponse {
+  bytes report_data = 1;
+  string filename = 2;
+}
+
+message ChatMessage {
+    string query = 1;
+    string conversation_id = 2;
+    string context_json = 3;  // JSON string with context
+}
+
+message ChatResponse {
+    string message = 1;
+    string type = 2;  // "response", "clarification", "action_required"
+    string action = 3;  // Optional: action to perform
+    string data_json = 4;  // Optional: additional data
+}
+
+message ConversationHistoryRequest {
+    string conversation_id = 1;
+}
+
+message ConversationHistoryResponse {
+    string messages_json = 1;  // JSON array of messages
+}
