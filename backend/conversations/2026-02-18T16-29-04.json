@@ -1,0 +1,46 @@
+{
+  "id": "2026-02-18T16-29-04",
+  "created_at": "2026-02-19T00:30:25.255690",
+  "messages": [
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"sample-5s.mp4\",\"last_analysis_id\":\"20260219_003024\",\"has_analysis\":true}",
+      "timestamp": "2026-02-19T00:30:25.281122",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"sample-5s.mp4\",\"last_analysis_id\":\"20260219_003024\",\"has_analysis\":true}",
+      "timestamp": "2026-02-19T00:30:25.292173",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you'd like me to do. Could you clarify? For example:\n- 'Transcribe the video'\n- 'Create a PowerPoint summary'\n- 'What objects are in the video?'",
+      "timestamp": "2026-02-19T00:30:25.309082",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "generate pdf",
+      "timestamp": "2026-02-19T00:34:17.782988",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "generate pdf",
+      "timestamp": "2026-02-19T00:34:17.805391",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PDF report for you.",
+      "timestamp": "2026-02-19T00:34:17.853502",
+      "metadata": {}
+    }
+  ],
+  "context": {
+    "last_query_intent": "create_pdf",
+    "last_query_action": "generate_report"
+  }
+}

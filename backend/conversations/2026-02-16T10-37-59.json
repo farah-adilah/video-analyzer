@@ -1,0 +1,67 @@
+{
+  "id": "2026-02-16T10-37-59",
+  "created_at": "2026-02-16T18:43:13.847554",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What objects are shown in the video?",
+      "timestamp": "2026-02-16T18:43:13.869672",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I need a video to analyze first. Please upload a video, then I can help you with that!",
+      "timestamp": "2026-02-16T18:43:13.888180",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "What objects are shown in the video?",
+      "timestamp": "2026-02-16T18:43:37.743827",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I need a video to analyze first. Please upload a video, then I can help you with that!",
+      "timestamp": "2026-02-16T18:43:37.748849",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "i already upload the video",
+      "timestamp": "2026-02-16T18:43:50.610895",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you'd like me to do. Could you clarify? For example:\n- 'Transcribe the video'\n- 'Create a PowerPoint summary'\n- 'What objects are in the video?'",
+      "timestamp": "2026-02-16T18:43:50.626573",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "What objects are shown in the video?",
+      "timestamp": "2026-02-16T19:03:02.739788",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I need a video to analyze first. Please upload a video, then I can help you with that!",
+      "timestamp": "2026-02-16T19:03:02.823745",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "What objects are shown in the video?",
+      "timestamp": "2026-02-16T19:04:29.350871",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I need a video to analyze first. Please upload a video, then I can help you with that!",
+      "timestamp": "2026-02-16T19:04:29.366851",
+      "metadata": {}
+    }
+  ],
+  "context": {}
+}

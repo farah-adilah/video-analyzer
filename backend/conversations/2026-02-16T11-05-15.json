@@ -1,0 +1,19 @@
+{
+  "id": "2026-02-16T11-05-15",
+  "created_at": "2026-02-16T19:12:21.476550",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What objects are shown in the video?",
+      "timestamp": "2026-02-16T19:12:21.488406",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I need a video to analyze first. Please upload a video, then I can help you with that!",
+      "timestamp": "2026-02-16T19:12:21.505619",
+      "metadata": {}
+    }
+  ],
+  "context": {}
+}

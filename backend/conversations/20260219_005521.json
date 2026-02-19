@@ -1,0 +1,50 @@
+{
+  "id": "20260219_005521",
+  "created_at": "2026-02-19T00:55:21.389806",
+  "messages": [],
+  "context": {
+    "last_analysis": {
+      "video_name": "sample-5s.mp4",
+      "video_path": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp4p893kth.mp4",
+      "timestamp": "2026-02-19T00:53:44.212016",
+      "status": "complete",
+      "video_info": {
+        "fps": 30.0,
+        "frame_count": 171,
+        "width": 1920,
+        "height": 1080,
+        "duration": 5.7
+      },
+      "transcription": {
+        "agent": "TranscriptionAgent",
+        "transcription": "",
+        "language": "en",
+        "error": null
+      },
+      "vision": {
+        "agent": "VisionAgent",
+        "total_frames": 2,
+        "analyzed_frames": 2,
+        "captions": [
+          {
+            "frame": 1,
+            "caption": "a park with a lot of trees and a few cars",
+            "timestamp": 0
+          },
+          {
+            "frame": 2,
+            "caption": "a park with a bench and a tree",
+            "timestamp": 5
+          }
+        ],
+        "summary": "The video contains 2 key scenes. a park with a lot of trees and a few cars a park with a bench and a tree"
+      },
+      "ai_summary": "A short video demonstrating a park with a variety of visual scenes, including a bench, a tree, and a few cars parked nearby. The scenes are presented in a steady and natural manner, with a clear focus on the visual details."
+    },
+    "video_path": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp4p893kth.mp4",
+    "video_name": "sample-5s.mp4",
+    "current_video": "sample-5s.mp4",
+    "last_analysis_id": "20260219_005521",
+    "has_analysis": true
+  }
+}

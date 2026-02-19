@@ -1,0 +1,262 @@
+{
+  "id": "2026-02-17T13-19-29",
+  "created_at": "2026-02-17T21:20:25.253745",
+  "messages": [
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"sample-5s.mp4\",\"last_analysis_id\":\"20260217_212024\",\"has_analysis\":true}",
+      "timestamp": "2026-02-17T21:20:25.253745",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"sample-5s.mp4\",\"last_analysis_id\":\"20260217_212024\",\"has_analysis\":true}",
+      "timestamp": "2026-02-17T21:20:25.277384",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you'd like me to do. Could you clarify? For example:\n- 'Transcribe the video'\n- 'Create a PowerPoint summary'\n- 'What objects are in the video?'",
+      "timestamp": "2026-02-17T21:20:25.289383",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "what are the objects shown?",
+      "timestamp": "2026-02-17T21:20:38.402075",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "what are the objects shown?",
+      "timestamp": "2026-02-17T21:20:38.417188",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the objects I found in the video:",
+      "timestamp": "2026-02-17T21:20:38.455758",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "are there any graphs in the video?",
+      "timestamp": "2026-02-17T21:21:13.047818",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "are there any graphs in the video?",
+      "timestamp": "2026-02-17T21:21:13.060818",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the objects I found in the video:",
+      "timestamp": "2026-02-17T21:21:13.086191",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "summarize our discussion",
+      "timestamp": "2026-02-17T21:21:33.926308",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "summarize our discussion",
+      "timestamp": "2026-02-17T21:21:33.938955",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\udcdd Summary:\n\nA short video analysis of a park scene, with visual scenes of a park with trees and a bench, accompanied by a slow-paced soundtrack.",
+      "timestamp": "2026-02-17T21:21:33.997855",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create a powerpoint with key points discussed in the video",
+      "timestamp": "2026-02-17T21:22:10.657678",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create a powerpoint with key points discussed in the video",
+      "timestamp": "2026-02-17T21:22:10.672704",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PPTX report for you.",
+      "timestamp": "2026-02-17T21:22:10.709145",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create pdf",
+      "timestamp": "2026-02-17T21:23:44.202260",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create pdf",
+      "timestamp": "2026-02-17T21:23:44.214877",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PDF report for you.",
+      "timestamp": "2026-02-17T21:23:44.241685",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create a pdf with key points discussed in the video",
+      "timestamp": "2026-02-17T21:24:10.401072",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create a pdf with key points discussed in the video",
+      "timestamp": "2026-02-17T21:24:10.413277",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PPTX report for you.",
+      "timestamp": "2026-02-17T21:24:10.439647",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create a PDF with key points discussed in the video",
+      "timestamp": "2026-02-17T21:24:18.318405",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create a PDF with key points discussed in the video",
+      "timestamp": "2026-02-17T21:24:18.331703",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PPTX report for you.",
+      "timestamp": "2026-02-17T21:24:18.348283",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "generate pdf report",
+      "timestamp": "2026-02-17T21:29:17.546258",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "generate pdf report",
+      "timestamp": "2026-02-17T21:29:17.558823",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PDF report for you.",
+      "timestamp": "2026-02-17T21:29:17.583830",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "generate pdf",
+      "timestamp": "2026-02-17T21:30:57.209724",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "generate pdf",
+      "timestamp": "2026-02-17T21:30:57.230699",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PDF report for you.",
+      "timestamp": "2026-02-17T21:30:57.253229",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "how many key frames this video has?",
+      "timestamp": "2026-02-17T21:33:11.739702",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "how many key frames this video has?",
+      "timestamp": "2026-02-17T21:33:11.752294",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you'd like me to do. Could you clarify? For example:\n- 'Transcribe the video'\n- 'Create a PowerPoint summary'\n- 'What objects are in the video?'",
+      "timestamp": "2026-02-17T21:33:11.767263",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "transcribe the video",
+      "timestamp": "2026-02-17T21:33:28.622519",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "transcribe the video",
+      "timestamp": "2026-02-17T21:33:28.640543",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "Here's the transcription:",
+      "timestamp": "2026-02-17T21:33:28.678549",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "summarize the vidoe",
+      "timestamp": "2026-02-17T21:34:55.156663",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "summarize the vidoe",
+      "timestamp": "2026-02-17T21:34:55.171298",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\udcdd Summary:\n\nA short video analysis of a park scene, with visual scenes of a park with trees and a bench, accompanied by a slow-paced soundtrack.",
+      "timestamp": "2026-02-17T21:34:55.214443",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "what are the key points from the video?",
+      "timestamp": "2026-02-17T21:35:08.808001",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "what are the key points from the video?",
+      "timestamp": "2026-02-17T21:35:08.824086",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PPTX report for you.",
+      "timestamp": "2026-02-17T21:35:08.863007",
+      "metadata": {}
+    }
+  ],
+  "context": {
+    "last_query_intent": "create_ppt",
+    "last_query_action": "generate_report"
+  }
+}

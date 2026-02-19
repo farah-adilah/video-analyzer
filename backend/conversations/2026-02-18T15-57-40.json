@@ -1,0 +1,100 @@
+{
+  "id": "2026-02-18T15-57-40",
+  "created_at": "2026-02-19T00:00:00.132557",
+  "messages": [
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"sample-5s.mp4\",\"last_analysis_id\":\"20260218_235959\",\"has_analysis\":true}",
+      "timestamp": "2026-02-19T00:00:00.132557",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"sample-5s.mp4\",\"last_analysis_id\":\"20260218_235959\",\"has_analysis\":true}",
+      "timestamp": "2026-02-19T00:00:00.152712",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you'd like me to do. Could you clarify? For example:\n- 'Transcribe the video'\n- 'Create a PowerPoint summary'\n- 'What objects are in the video?'",
+      "timestamp": "2026-02-19T00:00:00.165167",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "transcribe the video",
+      "timestamp": "2026-02-19T00:01:56.130325",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "transcribe the video",
+      "timestamp": "2026-02-19T00:01:56.150651",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\udd07 No speech detected in this video. The video may be silent or contain only background noise/music.",
+      "timestamp": "2026-02-19T00:01:56.214414",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "what objects are shown?",
+      "timestamp": "2026-02-19T00:02:10.789902",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "what objects are shown?",
+      "timestamp": "2026-02-19T00:02:10.813778",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the objects I found in the video:",
+      "timestamp": "2026-02-19T00:02:10.846567",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create the pdf",
+      "timestamp": "2026-02-19T00:02:35.388664",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create the pdf",
+      "timestamp": "2026-02-19T00:02:35.399669",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PDF report for you.",
+      "timestamp": "2026-02-19T00:02:35.435105",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "generate pdf",
+      "timestamp": "2026-02-19T00:03:39.913767",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "generate pdf",
+      "timestamp": "2026-02-19T00:03:39.938401",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PDF report for you.",
+      "timestamp": "2026-02-19T00:03:39.952956",
+      "metadata": {}
+    }
+  ],
+  "context": {
+    "last_query_intent": "create_pdf",
+    "last_query_action": "generate_report"
+  }
+}

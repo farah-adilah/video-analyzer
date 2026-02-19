@@ -1,0 +1,95 @@
+{
+  "id": "2026-02-17T10-30-39",
+  "created_at": "2026-02-17T18:39:05.703057",
+  "messages": [
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"sample-5s.mp4\",\"last_analysis_id\":\"20260217_183904\",\"has_analysis\":true}",
+      "timestamp": "2026-02-17T18:39:05.727951",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"sample-5s.mp4\",\"last_analysis_id\":\"20260217_183904\",\"has_analysis\":true}",
+      "timestamp": "2026-02-17T18:39:05.744686",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you'd like me to do. Could you clarify? For example:\n- 'Transcribe the video'\n- 'Create a PowerPoint summary'\n- 'What objects are in the video?'",
+      "timestamp": "2026-02-17T18:39:05.756448",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "what are the objects shown in the video?",
+      "timestamp": "2026-02-17T18:39:34.973650",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "what are the objects shown in the video?",
+      "timestamp": "2026-02-17T18:39:34.997890",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "does the video has transcription?",
+      "timestamp": "2026-02-17T18:43:12.074322",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "does the video has transcription?",
+      "timestamp": "2026-02-17T18:43:12.134623",
+      "metadata": {}
+    }
+  ],
+  "context": {
+    "last_query_intent": "transcribe",
+    "last_query_action": "transcription",
+    "last_analysis": {
+      "video_name": "sample-5s.mp4",
+      "video_path": "C:\\Users\\User\\AppData\\Local\\Temp\\tmpvoupor5h.mp4",
+      "timestamp": "2026-02-17T18:43:14.059029",
+      "status": "complete",
+      "video_info": {
+        "fps": 30.0,
+        "frame_count": 171,
+        "width": 1920,
+        "height": 1080,
+        "duration": 5.7
+      },
+      "transcription": {
+        "agent": "TranscriptionAgent",
+        "transcription": "",
+        "language": "en",
+        "error": null
+      },
+      "vision": {
+        "agent": "VisionAgent",
+        "total_frames": 2,
+        "analyzed_frames": 2,
+        "captions": [
+          {
+            "frame": 1,
+            "caption": "a park with a lot of trees and a few cars",
+            "timestamp": 0
+          },
+          {
+            "frame": 2,
+            "caption": "a park with a bench and a tree",
+            "timestamp": 5
+          }
+        ],
+        "summary": "The video contains 2 key scenes. a park with a lot of trees and a few cars a park with a bench and a tree"
+      },
+      "ai_summary": "A short video analysis shows a park with a few cars and a bench, surrounded by a lush green landscape of trees. The camera moves through a wide angle lens, capturing the beauty of the natural environment. The soundscape consists of birds chirping and leaves rustling. The visuals convey a sense of tranquility and peacefulness, providing a refreshing break from the hustle and bustle of everyday life."
+    },
+    "video_path": "C:\\Users\\User\\AppData\\Local\\Temp\\tmpvoupor5h.mp4",
+    "video_name": "sample-5s.mp4",
+    "current_video": "sample-5s.mp4",
+    "last_analysis_id": "20260217_184349",
+    "has_analysis": true
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "20260219_114533",
+  "created_at": "2026-02-19T11:45:33.547998",
+  "messages": [],
+  "context": {
+    "last_analysis": {
+      "video_name": "videoplayback.mp4",
+      "video_path": "C:\\Users\\User\\AppData\\Local\\Temp\\tmpavvtbrdh.mp4",
+      "timestamp": "2026-02-19T11:43:44.112557",
+      "status": "complete",
+      "video_info": {
+        "fps": 29.97002997002997,
+        "frame_count": 7831,
+        "width": 640,
+        "height": 360,
+        "duration": 261.2943666666667
+      },
+      "transcription": {
+        "agent": "TranscriptionAgent",
+        "transcription": " So what we've been doing is we've been keeping track of this breaking news here. What I'm going to do is I'm going to reset because I see some new people are joining. Let's just talk about what we know so far. We know that there's been heavy police activity just two miles away from the House of Nancy Guthrie. According to Fox News Digital, at least three people have been detained in connection to the disappearance of Nancy Guthrie. That's a law enforcement, law enforcement source speaking with Fox News Digital. We do not know how many, if any, are considered suspects in the case. That is not a word that the police are using with this situation so far tonight. In fact, we have not gotten an official statement from police so far. The Pima County Sheriff's Department says that there will not be an on-camera press conference tonight. What they do say is that they will eventually be giving a written statement to the reporters that are out there on scene. What we've been doing is keeping tabs on the Pima County Sheriff's Department's X account for any updates that might come through. We don't know if this will actually be given to the media in person or if we will simply see a written statement written on social media any moment here. I have been keeping an eye on a number of these beads which at this point of the night are really just some of these police vehicles standing by a source telling Fox News Digital that and let's just be a little bit more specific here with what we're talking about. I'm going to read this tweet from Michael Ruiz. He says, I'm told that after receiving a tip authorities have detained two males plus one of their moms. However, source caution that during a warrant execution technically everyone is detained unclear if anyone is a suspect. So that's how police are treating this and that's what we do know so far tonight. And again, that is a source speaking with Fox News Digital. We have not heard the official statement that's been released by that is expected to be released by the Pima County Sheriff's Department. The detainments are coming after law enforcement swarmed an area about two miles from Nancy Guthrie's home earlier tonight. We are unsure when exactly that written statement is going to come through. But we understand that they will eventually be giving us a written statement. Again, no press briefings scheduled tonight. That's all we've really seen from them on social media so far. So what I'm going to do here is bring in Jamie Copenhagen and again, Jamie, we're getting new people that are tuning in and they might just be hearing about this for the first time. Let's just kind of reset and let's discuss the significance of what we're hearing tonight. You and I earlier today we were discussing and we were really showing a lot of viewer questions and we were answering a lot of very great, nuanced, specific questions dealing with very specific parts of the investigation. This is one of those headlines you see that really makes you think, oh, this could be a really big break in the case. Let's just put this in your words, Jamie. How significant is it? We've been sitting here for nearly two weeks and now it appears swat in vehicles were involved in this operation that ended in the detainments of at least one person and hearing from Fox News Digital as many as three people. So Jamie, the significance of what we're hearing tonight. Let me make it a little bit clearer for the viewers. I've executed search once Austin looking for evidence or a suspect, right? Once you obtain that search warrant from a judge, that houses yours and to release it. And I have served countless ones or the suspect wasn't actually at home, but his family was. So, you know, you're still going to take those individuals in custody as detainees for officer safety. So, you know, we don't want to read a lot into, there's a suspect who's not a suspect into we or that official statement, but, um, you know, that's this is quite possibly how this could have played out. We just we just don't know, but, um, and it's just for the viewers, everyone in that home is going to be detained and secured until the threat is over. Let's talk about the home. If you can expand on that, Jamie, I'm curious, because we know this happened.",
+        "language": "en",
+        "error": null
+      },
+      "vision": {
+        "agent": "VisionAgent",
+        "total_frames": 53,
+        "analyzed_frames": 10,
+        "captions": [
+          {
+            "frame": 1,
+            "caption": "a police officer is seen in this image",
+            "timestamp": 0
+          },
+          {
+            "frame": 2,
+            "caption": "a police officer is seen in this image",
+            "timestamp": 5
+          },
+          {
+            "frame": 3,
+            "caption": "a police car is seen in this image from the news",
+            "timestamp": 10
+          },
+          {
+            "frame": 4,
+            "caption": "a police car is seen in front of a house",
+            "timestamp": 15
+          },
+          {
+            "frame": 5,
+            "caption": "a police car is seen in front of a house",
+            "timestamp": 20
+          },
+          {
+            "frame": 6,
+            "caption": "a police car is seen in front of a house",
+            "timestamp": 25
+          },
+          {
+            "frame": 7,
+            "caption": "a police car is seen in front of a house",
+            "timestamp": 30
+          },
+          {
+            "frame": 8,
+            "caption": "a police car is seen in front of a house",
+            "timestamp": 35
+          },
+          {
+            "frame": 9,
+            "caption": "a police car is seen in front of a house",
+            "timestamp": 40
+          },
+          {
+            "frame": 10,
+            "caption": "a police car is seen in front of a house",
+            "timestamp": 45
+          }
+        ],
+        "summary": "The video contains 10 key scenes. a police officer is seen in this image a police officer is seen in this image a police car is seen in this image from the news"
+      },
+      "ai_summary": "AI model not available. Using basic summary."
+    },
+    "video_path": "C:\\Users\\User\\AppData\\Local\\Temp\\tmpavvtbrdh.mp4",
+    "video_name": "videoplayback.mp4",
+    "current_video": "videoplayback.mp4",
+    "last_analysis_id": "20260219_114533",
+    "has_analysis": true
+  }
+}

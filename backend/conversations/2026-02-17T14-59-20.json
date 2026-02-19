@@ -1,0 +1,148 @@
+{
+  "id": "2026-02-17T14-59-20",
+  "created_at": "2026-02-17T23:00:56.058781",
+  "messages": [
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"sample-5s.mp4\",\"last_analysis_id\":\"20260217_230055\",\"has_analysis\":true}",
+      "timestamp": "2026-02-17T23:00:56.069808",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"sample-5s.mp4\",\"last_analysis_id\":\"20260217_230055\",\"has_analysis\":true}",
+      "timestamp": "2026-02-17T23:00:56.084745",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you'd like me to do. Could you clarify? For example:\n- 'Transcribe the video'\n- 'Create a PowerPoint summary'\n- 'What objects are in the video?'",
+      "timestamp": "2026-02-17T23:00:56.099081",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create pdf for me",
+      "timestamp": "2026-02-17T23:02:07.403412",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "create pdf for me",
+      "timestamp": "2026-02-17T23:02:07.424872",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PDF report for you.",
+      "timestamp": "2026-02-17T23:02:07.466464",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "generate pdf",
+      "timestamp": "2026-02-17T23:05:44.963036",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "generate pdf",
+      "timestamp": "2026-02-17T23:05:44.979026",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'll generate a PDF report for you.",
+      "timestamp": "2026-02-17T23:05:44.993328",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "are there any graph in the video?",
+      "timestamp": "2026-02-17T23:06:58.564023",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "are there any graph in the video?",
+      "timestamp": "2026-02-17T23:06:58.573993",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the objects I found in the video:",
+      "timestamp": "2026-02-17T23:06:58.608990",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "is there any graph in the video? if yes explain to me",
+      "timestamp": "2026-02-17T23:07:19.367337",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "is there any graph in the video? if yes explain to me",
+      "timestamp": "2026-02-17T23:07:19.382068",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "transcribe the video",
+      "timestamp": "2026-02-17T23:07:37.793036",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "transcribe the video",
+      "timestamp": "2026-02-17T23:07:37.806074",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "Here's the transcription:",
+      "timestamp": "2026-02-17T23:07:37.843330",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "list down key points from the video",
+      "timestamp": "2026-02-17T23:09:58.270790",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "list down key points from the video",
+      "timestamp": "2026-02-17T23:09:58.283631",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you'd like me to do. Could you clarify? For example:\n- 'Transcribe the video'\n- 'Create a PowerPoint summary'\n- 'What objects are in the video?'",
+      "timestamp": "2026-02-17T23:09:58.295696",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "i want the video summary",
+      "timestamp": "2026-02-17T23:10:13.543509",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "i want the video summary",
+      "timestamp": "2026-02-17T23:10:13.557423",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\udcdd Summary:\n\nA brief visual analysis of a park scene with trees, bench, and cars at 0s and 5s.",
+      "timestamp": "2026-02-17T23:10:13.591471",
+      "metadata": {}
+    }
+  ],
+  "context": {
+    "last_query_intent": "summarize",
+    "last_query_action": "summarization"
+  }
+}

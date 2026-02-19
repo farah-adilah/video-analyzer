@@ -1,0 +1,25 @@
+{
+  "id": "2026-02-19T03-42-06",
+  "created_at": "2026-02-19T11:45:33.994876",
+  "messages": [
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"videoplayback.mp4\",\"last_analysis_id\":\"20260219_114533\",\"has_analysis\":true}",
+      "timestamp": "2026-02-19T11:45:34.013127",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": "__CONTEXT_UPDATE__:{\"current_video\":\"videoplayback.mp4\",\"last_analysis_id\":\"20260219_114533\",\"has_analysis\":true}",
+      "timestamp": "2026-02-19T11:45:34.022153",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you'd like me to do. Could you clarify? For example:\n- 'Transcribe the video'\n- 'Create a PowerPoint summary'\n- 'What objects are in the video?'",
+      "timestamp": "2026-02-19T11:45:34.033287",
+      "metadata": {}
+    }
+  ],
+  "context": {}
+}
