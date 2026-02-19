@@ -157,6 +157,7 @@ video-ai-analyzer/
 │   ├── output/                # Generated reports (auto-generated)
 │   ├── storage.py
 │   └── requirements.txt
+├── example/                   # Some sample outputs
 ├── frontend/
 │   ├── src/
 │   │   ├── components/        # React components
@@ -207,3 +208,4 @@ ffmpeg -version
 - [TinyLlama](https://github.com/jzhang38/TinyLlama) - Text generation
 - [Tauri](https://tauri.app/) - Desktop framework
 - [gRPC](https://grpc.io/) - RPC framework
+
